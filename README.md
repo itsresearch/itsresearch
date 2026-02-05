@@ -1,5 +1,4 @@
 <h1 align="center">Hello World! 👋 I'm Research Devkota</h1>
-<h3 align="center">Full Stack Developer | Python/Django Expert </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Continuous+Learner;Full+Stack+Developer" alt="Typing SVG" /></a>
@@ -22,6 +21,7 @@ I'm a passionate full-stack developer from Nepal with expertise in building robu
 ### Backend Development
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-Laravel-092E20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Databases
