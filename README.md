@@ -19,9 +19,9 @@ I'm a passionate full-stack developer from Nepal with expertise in building robu
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend Development
+![Laravel](https://img.shields.io/badge/-Laravel-092E20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django](https://img.shields.io/badge/-Laravel-092E20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Databases
@@ -50,7 +50,7 @@ I'm a passionate full-stack developer from Nepal with expertise in building robu
 - GraphQL
 
 ## 💡 Projects Highlights
-- [E-commerce Platform with Django & React](https://github.com/itsresearch/ecommerce-platform)
+- [E-commerce Platform with Laravel & React](https://github.com/itsresearch/ecommerce-platform)
 - [Task Management System with Vue.js](https://github.com/itsresearch/task-manager)
 - [Open Source Contributions](https://github.com/itsresearch?tab=repositories)
 
